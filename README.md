@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sezergumus&label=Profile%20views&color=0e75b6&style=flat" alt="sezergumus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sezergumus" alt="sezergumus" /></a> </p>
-
 - 🌱 I’m currently learning **Svelte**
 
 - 📫 How to reach me **hello@sezergumus.dev**
