@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sezergumus&label=Profile%20views&color=0e75b6&style=flat" alt="sezergumus" /> </p>
 
-- 🌱 I’m currently learning **Svelte**
-
 - 📫 How to reach me **hello@sezergumus.dev**
 
 - 📄 Know about my experiences [sezergumus.dev](sezergumus.dev)
