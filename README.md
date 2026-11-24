@@ -1,11 +1,13 @@
 <div align="center">
-  <h1>Hi, I'm Sezer Gümüş 👋</h1>
-  <p><strong>Full Stack & Systems Engineer</strong> based in Istanbul, Turkey</p>
+  <h1>Hi, I'm Sezer Gümüş</h1>
+  <p><strong>Full-Stack & Frontend Software Engineer</strong> based in Istanbul, Türkiye</p>
 
-  <!-- İletişim & Sosyal Bağlantılar -->
   <p>
     <a href="https://sezergumus.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-sezergumus.dev-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-sezergumus.dev-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://blog.sezergumus.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Blog-blog.sezergumus.dev-0F766E?style=for-the-badge&logo=astro&logoColor=white" alt="Blog" />
     </a>
     <a href="https://www.linkedin.com/in/sezergumus" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -18,41 +20,48 @@
 
 ---
 
-### 🚀 About Me
-- 💼 Building high-performance, scalable web platforms and low-latency client software.
-- 🛠️ Primary stack: **TypeScript, React, Next.js, Node.js**, and modern distributed backends.
-- 🎛️ Interested in creative interactions, audio-DSP web tech, and lightweight desktop architectures using **C++, JUCE, Tauri**.
-- ☁️ Always optimizing for code quality, DX, and clean system architecture.
+### About Me
+- Building production web applications, interactive interfaces, and AI workflows with **TypeScript, React, Next.js, Node.js, and Python**.
+- Currently working on frontend engineering and LLM code evaluation at **Outlier AI**, alongside full-stack client platforms and AI automation at **Draft Works**.
+- Recently built **[Lunaris](https://lunaris.sezergumus.dev)** for **NASA Space Apps Challenge 2026** (Galactic Problem Solver).
+- On the side, I enjoy building small tools, audio DSP plugins (**C++ / JUCE**), and P2P desktop apps (**Rust / Tauri**).
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[tini](https://github.com/Sezergumus/tini)** | Real-time guitar amp & pedalboard simulator with Neural Amp Modeler (.nam) support, cabinet IR loader & DSP effects. | `C++` `JUCE` `Audio DSP` | [Repo](https://github.com/Sezergumus/tini) |
-| **[focal](https://github.com/Sezergumus/focal)** | A minimalist daily puzzle collection: small instruments, zero friction, installable PWA. | `Next.js` `TypeScript` `PWA` | [Repo](https://github.com/Sezergumus/focal) |
-| **[koru-uptime](https://github.com/Sezergumus/koru-uptime)** | Lightweight service uptime & availability monitoring tool. | `Node.js` `TypeScript` `SQLite` | [Repo](https://github.com/Sezergumus/koru-uptime) |
+| **[Lunaris](https://github.com/Sezergumus/lunaris)** | Interactive lunar south pole landing planner and 3D terrain explorer built on NASA LOLA data and JPL DE421 ephemeris (NASA Space Apps 2026). | `TypeScript` `React` `Three.js` `FastAPI` | [Live](https://lunaris.sezergumus.dev) · [Write-up](https://blog.sezergumus.dev/blog/building-lunaris) · [Repo](https://github.com/Sezergumus/lunaris) |
+| **[Tını](https://github.com/Sezergumus/tini)** | Standalone Windows guitar rig and DAW VST3 plugin with Neural Amp Modeler (`.nam`) inference, cabinet IR loader, and pedalboard chain. | `C++` `JUCE` `VST3` `Audio DSP` | [Website](https://sezergumus.github.io/tini/) · [Repo](https://github.com/Sezergumus/tini) |
+| **[Koru Uptime](https://github.com/Sezergumus/koru-uptime)** | Self-hosted uptime monitoring, incident alerting, and status page platform built on SQLite WAL. | `TypeScript` `Node.js` `SQLite` | [Repo](https://github.com/Sezergumus/koru-uptime) |
+| **[Focal](https://github.com/Sezergumus/focal)** | Minimalist daily puzzle collection featuring eight tactile micro-instruments with no timers or failure states. | `JavaScript` `HTML/CSS` `Offline PWA` | [Live](https://focal.sezergumus.dev) · [Repo](https://github.com/Sezergumus/focal) |
 
 ---
 
-### 💻 Tech Stack
-
-<p><strong>Frontend & Client Architecture</strong></p>
-
-[![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,threejs,tauri,vite)](https://skillicons.dev)
-
-<p><strong>Backend & Systems Engineering</strong></p>
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,python,cpp,kafka,rabbitmq,prisma)](https://skillicons.dev)
-
-<p><strong>Cloud, Databases & Storage</strong></p>
-
-[![Cloud](https://skillicons.dev/icons?i=postgres,redis,mongodb,supabase,cloudflare,docker,gcp,git)](https://skillicons.dev)
+### Recent Writing
+- [What Happens When a Moon Landing Slips by a Week?](https://blog.sezergumus.dev/blog/building-lunaris) - Building Lunaris with NASA LOLA data, a browser-side risk engine, and Three.js.
+- [Behind the Lock: How APIs Know You Are You](https://blog.sezergumus.dev/blog/behind-the-lock) - A practical breakdown of API authentication, sessions, JWTs, and OAuth.
 
 ---
 
-### 📊 GitHub Activity
+### Tech Stack
+
+<p><strong>Frontend</strong></p>
+
+[![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,threejs,vite)](https://skillicons.dev)
+
+<p><strong>Backend & Data</strong></p>
+
+[![Backend & Data](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mysql,mongodb,sqlite,redis,supabase)](https://skillicons.dev)
+
+<p><strong>Cloud, Tools & Other</strong></p>
+
+[![Cloud & Tools](https://skillicons.dev/icons?i=docker,gcp,vercel,git,jest,cpp,cs,java)](https://skillicons.dev)
+
+---
+
+### GitHub Activity
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sezergumus&theme=tokyonight&hide_border=true" alt="Sezer's GitHub Streak" />
 </div>
